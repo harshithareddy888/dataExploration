@@ -25,3 +25,29 @@ Columns: location, date, new_vaccinations, total_vaccinations, people_vaccinated
 Key insight: Tracks vaccination rollout over time.
 
 Both datasets were originally imported from CSV/Excel and loaded into SQL Server tables for querying.
+
+## Features of the SQL Script
+
+### Basic Data Exploration
+
+1. Inspect total cases, deaths, and population by country.
+
+2. Calculate death percentage = (total_deaths / total_cases) * 100.
+
+3. Calculate infection percentage = (total_cases / population) * 100.
+
+### Aggregations
+
+1. Find the highest infection count per country.
+
+2. Identify countries with the highest death counts.
+
+3. Summarize global numbers across all regions.
+
+### Vaccination Analysis
+
+1. Join covidVaccinations with newCovidDeaths by location and date.
+
+2. Compute rolling totals of vaccinations by country.
+
+3. Estimate percentage of population vaccinated.

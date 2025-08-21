@@ -51,3 +51,19 @@ Both datasets were originally imported from CSV/Excel and loaded into SQL Server
 2. Compute rolling totals of vaccinations by country.
 
 3. Estimate percentage of population vaccinated.
+
+## How to Run
+
+- Import the datasets into SQL Server:
+
+  1. newCovidDeaths
+
+  2.covidVaccinations
+
+- Open DataExploration1.sql in SQL Server Management Studio (SSMS).
+
+- Select your database (e.g., PortifolioProjects) in the SSMS dropdown.
+
+- Execute the script to run the queries.
+
+- Results will be displayed in the Results/Message tabs.

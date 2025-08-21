@@ -56,9 +56,9 @@ Both datasets were originally imported from CSV/Excel and loaded into SQL Server
 
 - Import the datasets into SQL Server:
 
-  1. newCovidDeaths
+    1. newCovidDeaths
 
-  2.covidVaccinations
+    2.covidVaccinations
 
 - Open DataExploration1.sql in SQL Server Management Studio (SSMS).
 

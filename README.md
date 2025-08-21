@@ -67,3 +67,9 @@ Both datasets were originally imported from CSV/Excel and loaded into SQL Server
 - Execute the script to run the queries.
 
 - Results will be displayed in the Results/Message tabs.
+
+## Requirements
+
+1. Microsoft SQL Server (2017 or later recommended)
+
+2. SQL Server Management Studio (SSMS)

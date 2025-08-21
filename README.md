@@ -1,5 +1,5 @@
 # dataExploration
-- Overview
+## Overview
 
 This project explores global COVID-19 data using SQL Server.
 The script (DataExploration1.sql) performs queries and aggregations on two datasets:
